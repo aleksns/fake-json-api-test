@@ -1,0 +1,152 @@
+[
+  {
+    "id": 100,
+    "name": "burgers",
+    "image": "/images/menu/categories/burgers.png",
+    "content": [
+      {
+        "id": 101,
+        "name": "burger1",
+        "price": "5.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 102,
+        "name": "burger2",
+        "price": "6.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 103,
+        "name": "burger3",
+        "price": "8.99$",
+        "description": "delicious"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "sandwiches",
+    "image": "/images/menu/categories/sandwiches.png",
+    "content": [
+      {
+        "id": 201,
+        "name": "sandwich1",
+        "price": "5.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 202,
+        "name": "sandwich2",
+        "price": "6.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 203,
+        "name": "sandwich3",
+        "price": "8.99$",
+        "description": "delicious"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "tacos",
+    "image": "../images/menu/categories/tacos.png",
+    "content": [
+      {
+        "id": 301,
+        "name": "taco1",
+        "price": "5.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 302,
+        "name": "taco2",
+        "price": "6.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 303,
+        "name": "taco3",
+        "price": "8.99$",
+        "description": "delicious"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "name": "wrappers",
+    "image": "/images/menu/categories/wrappers.png",
+    "content": [
+      {
+        "id": 401,
+        "name": "wrapper1",
+        "price": "5.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 402,
+        "name": "wrapper2",
+        "price": "6.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 403,
+        "name": "wrapper3",
+        "price": "8.99$",
+        "description": "delicious"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "name": "fries",
+    "image": "/images/menu/categories/fries.png",
+    "content": [
+      {
+        "id": 501,
+        "name": "fries1",
+        "price": "5.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 502,
+        "name": "fries2",
+        "price": "6.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 503,
+        "name": "fries3",
+        "price": "8.99$",
+        "description": "delicious"
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "drinks",
+    "image": "/images/menu/categories/drinks.png",
+    "content": [
+      {
+        "id": 601,
+        "name": "drink1",
+        "price": "2.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 602,
+        "name": "drink2",
+        "price": "3.99$",
+        "description": "delicious"
+      },
+      {
+        "id": 603,
+        "name": "drink3",
+        "price": "4.99$",
+        "description": "delicious"
+      }
+    ]
+  }
+]
