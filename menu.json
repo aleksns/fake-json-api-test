@@ -1,171 +1,171 @@
 [
-    {
-      "id": 100,
-      "name": "burgers",
-      "imageUrl": "/images/menu/categories/burgers.png",
-      "items": [
-        {
-          "id": 101,
-          "name": "burger1",
-          "price": "5.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 102,
-          "name": "burger2",
-          "price": "6.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 103,
-          "name": "burger3",
-          "price": "8.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": 200,
-      "name": "sandwiches",
-      "imageUrl": "/images/menu/categories/sandwiches.png",
-      "items": [
-        {
-          "id": 201,
-          "name": "sandwich1",
-          "price": "5.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 202,
-          "name": "sandwich2",
-          "price": "6.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 203,
-          "name": "sandwich3",
-          "price": "8.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": 300,
-      "name": "tacos",
-      "imageUrl": "../images/menu/categories/tacos.png",
-      "items": [
-        {
-          "id": 301,
-          "name": "taco1",
-          "price": "5.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 302,
-          "name": "taco2",
-          "price": "6.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 303,
-          "name": "taco3",
-          "price": "8.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": 400,
-      "name": "wrappers",
-      "imageUrl": "/images/menu/categories/wrappers.png",
-      "items": [
-        {
-          "id": 401,
-          "name": "wrapper1",
-          "price": "5.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 402,
-          "name": "wrapper2",
-          "price": "6.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 403,
-          "name": "wrapper3",
-          "price": "8.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": 500,
-      "name": "fries",
-      "imageUrl": "/images/menu/categories/fries.png",
-      "items": [
-        {
-          "id": 501,
-          "name": "fries1",
-          "price": "5.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 502,
-          "name": "fries2",
-          "price": "6.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 503,
-          "name": "fries3",
-          "price": "8.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "id": 600,
-      "name": "drinks",
-      "imageUrl": "/images/menu/categories/drinks.png",
-      "items": [
-        {
-          "id": 601,
-          "name": "drink1",
-          "price": "2.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 602,
-          "name": "drink2",
-          "price": "3.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        },
-        {
-          "id": 603,
-          "name": "drink3",
-          "price": "4.99$",
-          "description": "delicious",
-          "imageUrl": ""
-        }
-      ]
-    }
-  ]
-  
+  {
+    "id": 100,
+    "name": "burgers",
+    "imageUrl": "/images/menu/categories/burgers.png",
+    "items": [
+      {
+        "id": 101,
+        "name": "Royal Burger",
+        "price": "7.99$",
+        "description": "Incredible piece of meat",
+        "imageUrl": ""
+      },
+      {
+        "id": 102,
+        "name": "Fatty Boorgir",
+        "price": "8.99$",
+        "description": "You gotta pronounce it right",
+        "imageUrl": ""
+      },
+      {
+        "id": 103,
+        "name": "Double Crispy",
+        "price": "5.99$",
+        "description": "Very kwispy",
+        "imageUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "sandwiches",
+    "imageUrl": "/images/menu/categories/sandwiches.png",
+    "items": [
+      {
+        "id": 201,
+        "name": "Sand Witch",
+        "price": "8.99$",
+        "description": "Wow, so unique naming",
+        "imageUrl": ""
+      },
+      {
+        "id": 202,
+        "name": "Morning Ham",
+        "price": "7.99$",
+        "description": "Tease yourself",
+        "imageUrl": ""
+      },
+      {
+        "id": 203,
+        "name": "Eggwich",
+        "price": "4.99$",
+        "description": "Contains no eggs",
+        "imageUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "tacos",
+    "imageUrl": "../images/menu/categories/tacos.png",
+    "items": [
+      {
+        "id": 301,
+        "name": "Taco Bianco",
+        "price": "11.99$",
+        "description": "Arrriba",
+        "imageUrl": ""
+      },
+      {
+        "id": 302,
+        "name": "Horny Taco",
+        "price": "13.99$",
+        "description": "Our official",
+        "imageUrl": ""
+      },
+      {
+        "id": 303,
+        "name": "Big Palette",
+        "price": "10.99$",
+        "description": "When you are hungry",
+        "imageUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "name": "wrappers",
+    "imageUrl": "/images/menu/categories/wrappers.png",
+    "items": [
+      {
+        "id": 401,
+        "name": "Beef Royal",
+        "price": "9.99$",
+        "description": "With beef",
+        "imageUrl": ""
+      },
+      {
+        "id": 402,
+        "name": "Anaconda",
+        "price": "12.99$",
+        "description": "It's huge",
+        "imageUrl": ""
+      },
+      {
+        "id": 403,
+        "name": "Long Longer",
+        "price": "16.99$",
+        "description": "Ain't no short",
+        "imageUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "name": "fries",
+    "imageUrl": "/images/menu/categories/fries.png",
+    "items": [
+      {
+        "id": 501,
+        "name": "Classic Fries",
+        "price": "4.99$",
+        "description": "You know them",
+        "imageUrl": ""
+      },
+      {
+        "id": 502,
+        "name": "Village Fries",
+        "price": "5.99$",
+        "description": "We don't peel them",
+        "imageUrl": ""
+      },
+      {
+        "id": 503,
+        "name": "Extra Oily Fries",
+        "price": "6.99$",
+        "description": "When you are bulking",
+        "imageUrl": ""
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "drinks",
+    "imageUrl": "/images/menu/categories/drinks.png",
+    "items": [
+      {
+        "id": 601,
+        "name": "Cola",
+        "price": "2.99$",
+        "description": "Without 'famous ingredient' added",
+        "imageUrl": ""
+      },
+      {
+        "id": 602,
+        "name": "Coffee",
+        "price": "3.99$",
+        "description": "You are tired",
+        "imageUrl": ""
+      },
+      {
+        "id": 603,
+        "name": "Herbal Tee",
+        "price": "3.99$",
+        "description": "Gotta be healthy",
+        "imageUrl": ""
+      }
+    ]
+  }
+]
+
