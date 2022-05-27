@@ -3,6 +3,7 @@
     "id": 100,
     "name": "Burgers",
     "imageUrl": "/images/menu/categories/burgers.png",
+    "url": "/burgers",
     "items": [
       {
         "id": 101,
@@ -31,6 +32,7 @@
     "id": 200,
     "name": "Sandwiches",
     "imageUrl": "/images/menu/categories/sandwiches.png",
+    "url": "/sandwiches",
     "items": [
       {
         "id": 201,
@@ -59,6 +61,7 @@
     "id": 300,
     "name": "Tacos",
     "imageUrl": "/images/menu/categories/tacos.png",
+    "url": "/tacos",
     "items": [
       {
         "id": 301,
@@ -87,6 +90,7 @@
     "id": 400,
     "name": "Wrappers",
     "imageUrl": "/images/menu/categories/wrappers.png",
+    "url": "/wrappers",
     "items": [
       {
         "id": 401,
@@ -115,6 +119,7 @@
     "id": 500,
     "name": "Fries",
     "imageUrl": "/images/menu/categories/fries.png",
+    "url": "/fries",
     "items": [
       {
         "id": 501,
@@ -143,6 +148,7 @@
     "id": 600,
     "name": "Drinks",
     "imageUrl": "/images/menu/categories/drinks.png",
+    "url": "/drinks",
     "items": [
       {
         "id": 601,
