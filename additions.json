@@ -1,42 +1,42 @@
 [
   {
     "id": 1001,
-    "name": "beef",
+    "name": "Beef",
     "price": 2.45,
     "imageUrl": "/images/menu/additions/beef.png",
     "amountOrdered": 0
   },
   {
     "id": 1002,
-    "name": "bacon",
+    "name": "Bacon",
     "price": 1.25,
     "imageUrl": "/images/menu/additions/bacon.png",
     "amountOrdered": 0
   },
   {
     "id": 1003,
-    "name": "cheese",
+    "name": "Cheese",
     "price": 0.99,
     "imageUrl": "/images/menu/additions/cheese.png",
     "amountOrdered": 0
   },
   {
     "id": 1004,
-    "name": "onions",
+    "name": "Onions",
     "price": 0.6,
     "imageUrl": "/images/menu/additions/onions.png",
     "amountOrdered": 0
   },
   {
     "id": 1005,
-    "name": "mustard",
+    "name": "Mustard",
     "price": 0.5,
     "imageUrl": "/images/menu/additions/mustard.png",
     "amountOrdered": 0
   },
   {
     "id": 1006,
-    "name": "chili",
+    "name": "Chili",
     "price": 0.5,
     "imageUrl": "/images/menu/additions/chili.png",
     "amountOrdered": 0
