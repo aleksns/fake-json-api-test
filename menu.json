@@ -12,14 +12,14 @@
         "description": "Incredible piece of meat",
         "imageUrl": "/images/menu/categories/burgers.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 102,
@@ -28,14 +28,14 @@
         "description": "You gotta pronounce it right",
         "imageUrl": "/images/menu/categories/burgers.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 103,
@@ -44,14 +44,14 @@
         "description": "Very kwispy",
         "imageUrl": "/images/menu/categories/burgers.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       }
     ]
   },
@@ -68,14 +68,14 @@
         "description": "Wow, so unique naming",
         "imageUrl": "/images/menu/categories/sandwiches.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 202,
@@ -84,14 +84,14 @@
         "description": "Tease yourself",
         "imageUrl": "/images/menu/categories/sandwiches.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 203,
@@ -100,14 +100,14 @@
         "description": "Contains no eggs",
         "imageUrl": "/images/menu/categories/sandwiches.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       }
     ]
   },
@@ -124,14 +124,14 @@
         "description": "Arrriba",
         "imageUrl": "/images/menu/categories/tacos.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 302,
@@ -140,14 +140,14 @@
         "description": "Our official",
         "imageUrl": "/images/menu/categories/tacos.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 303,
@@ -156,14 +156,14 @@
         "description": "When you are hungry",
         "imageUrl": "/images/menu/categories/tacos.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       }
     ]
   },
@@ -180,14 +180,14 @@
         "description": "With beef",
         "imageUrl": "/images/menu/categories/wrappers.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 402,
@@ -196,14 +196,14 @@
         "description": "It's huge",
         "imageUrl": "/images/menu/categories/wrappers.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 403,
@@ -212,14 +212,14 @@
         "description": "Ain't no short",
         "imageUrl": "/images/menu/categories/wrappers.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       }
     ]
   },
@@ -236,14 +236,14 @@
         "description": "You know them",
         "imageUrl": "/images/menu/categories/fries.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 502,
@@ -252,14 +252,14 @@
         "description": "We don't peel them",
         "imageUrl": "/images/menu/categories/fries.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 503,
@@ -268,14 +268,14 @@
         "description": "When you are bulking",
         "imageUrl": "/images/menu/categories/fries.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       }
     ]
   },
@@ -292,14 +292,14 @@
         "description": "Without 'famous ingredient' added",
         "imageUrl": "/images/menu/categories/drinks.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 602,
@@ -308,14 +308,14 @@
         "description": "You are tired",
         "imageUrl": "/images/menu/categories/drinks.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       },
       {
         "id": 603,
@@ -324,14 +324,14 @@
         "description": "Gotta be healthy",
         "imageUrl": "/images/menu/categories/drinks.png",
         "amountOrdered": 0,
-        "additions": [
-          {"beef": 0},
-          {"cheese": 0},
-          {"beacon": 0},
-          {"onions": 0},
-          {"mustard": 0},
-          {"chiliSauce": 0}
-        ]
+        "additions": {
+          "beef": 0,
+          "cheese": 0,
+          "beacon": 0,
+          "onions": 0,
+          "mustard": 0,
+          "chiliSauce": 0
+        }
       }
     ]
   }
