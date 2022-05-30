@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1001,
+    "name": "beef",
+    "price": 2.45,
+    "imageUrl": "/images/menu/additions/beef.png",
+    "amountOrdered": 0
+  },
+  {
+    "id": 1002,
+    "name": "bacon",
+    "price": 1.25,
+    "imageUrl": "/images/menu/additions/bacon.png",
+    "amountOrdered": 0
+  },
+  {
+    "id": 1003,
+    "name": "cheese",
+    "price": 0.99,
+    "imageUrl": "/images/menu/additions/cheese.png",
+    "amountOrdered": 0
+  },
+  {
+    "id": 1004,
+    "name": "onions",
+    "price": 0.6,
+    "imageUrl": "/images/menu/additions/onions.png",
+    "amountOrdered": 0
+  },
+  {
+    "id": 1005,
+    "name": "mustard",
+    "price": 0.5,
+    "imageUrl": "/images/menu/additions/mustard.png",
+    "amountOrdered": 0
+  },
+  {
+    "id": 1006,
+    "name": "chili",
+    "price": 0.5,
+    "imageUrl": "/images/menu/additions/chili.png",
+    "amountOrdered": 0
+  }
+]
