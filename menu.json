@@ -11,7 +11,7 @@
         "name": "Royal Burger",
         "price": 7.99,
         "description": "Incredible piece of meat",
-        "imageUrl": "/images/menu/categories/burgers.png",
+        "imageUrl": "/images/menu/categories/burgers/burger1.png",
         "amountOrdered": 0,
         "additions": []
       },
@@ -21,7 +21,7 @@
         "name": "Fatty Boorgir",
         "price": 8.99,
         "description": "You gotta pronounce it right",
-        "imageUrl": "/images/menu/categories/burgers/fattyBoorgir.jpg",
+        "imageUrl": "/images/menu/categories/burgers/burger2.png",
         "amountOrdered": 0,
         "additions": []
       },
@@ -31,7 +31,7 @@
         "name": "Double Crispy",
         "price": 5.99,
         "description": "Very kwispy",
-        "imageUrl": "/images/menu/categories/burgers.png",
+        "imageUrl": "/images/menu/categories/burgers/burger3.png",
         "amountOrdered": 0,
         "additions": []
       }
@@ -49,7 +49,7 @@
         "name": "Sand Witch",
         "price": 8.99,
         "description": "Wow, so unique naming",
-        "imageUrl": "/images/menu/categories/sandwiches.png",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich1.png",
         "amountOrdered": 0,
         "additions": []
       },
@@ -59,7 +59,7 @@
         "name": "Morning Ham",
         "price": 7.99,
         "description": "Tease yourself",
-        "imageUrl": "/images/menu/categories/sandwiches.png",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich2.png",
         "amountOrdered": 0,
         "additions": []
       },
@@ -69,7 +69,7 @@
         "name": "Eggwich",
         "price": 4.99,
         "description": "Contains no eggs",
-        "imageUrl": "/images/menu/categories/sandwiches.png",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich3.png",
         "amountOrdered": 0,
         "additions": []
       }
