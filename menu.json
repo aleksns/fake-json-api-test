@@ -13,6 +13,7 @@
         "description": "Incredible piece of meat",
         "imageUrl": "/images/menu/categories/burgers/burger1.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -23,6 +24,7 @@
         "description": "You gotta pronounce it right",
         "imageUrl": "/images/menu/categories/burgers/burger2.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -33,6 +35,7 @@
         "description": "Very kwispy",
         "imageUrl": "/images/menu/categories/burgers/burger3.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       }
     ]
@@ -51,6 +54,7 @@
         "description": "Wow, so unique naming",
         "imageUrl": "/images/menu/categories/sandwiches/sandwich1.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -61,6 +65,7 @@
         "description": "Tease yourself",
         "imageUrl": "/images/menu/categories/sandwiches/sandwich2.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -71,6 +76,7 @@
         "description": "Contains no eggs",
         "imageUrl": "/images/menu/categories/sandwiches/sandwich3.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       }
     ]
@@ -89,6 +95,7 @@
         "description": "Arrriba",
         "imageUrl": "/images/menu/categories/tacos.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -99,6 +106,7 @@
         "description": "Our official",
         "imageUrl": "/images/menu/categories/tacos.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -109,6 +117,7 @@
         "description": "When you are hungry",
         "imageUrl": "/images/menu/categories/tacos.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       }
     ]
@@ -127,6 +136,7 @@
         "description": "With beef",
         "imageUrl": "/images/menu/categories/wrappers.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -137,6 +147,7 @@
         "description": "It's huge",
         "imageUrl": "/images/menu/categories/wrappers.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -147,6 +158,7 @@
         "description": "Ain't no short",
         "imageUrl": "/images/menu/categories/wrappers.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       }
     ]
@@ -165,6 +177,8 @@
         "description": "You know them",
         "imageUrl": "/images/menu/categories/fries.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -175,6 +189,8 @@
         "description": "We don't peel them",
         "imageUrl": "/images/menu/categories/fries.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -185,6 +201,8 @@
         "description": "When you are bulking",
         "imageUrl": "/images/menu/categories/fries.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
+        "totalPrice": 0,
         "additions": []
       }
     ]
@@ -203,6 +221,7 @@
         "description": "Without 'famous ingredient' added",
         "imageUrl": "/images/menu/categories/drinks.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -213,6 +232,7 @@
         "description": "You are tired",
         "imageUrl": "/images/menu/categories/drinks.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       },
       {
@@ -223,6 +243,7 @@
         "description": "Gotta be healthy",
         "imageUrl": "/images/menu/categories/drinks.png",
         "amountOrdered": 0,
+        "totalPrice": 0,
         "additions": []
       }
     ]
