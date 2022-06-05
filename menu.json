@@ -78,6 +78,39 @@
         "amountOrdered": 0,
         "totalPrice": 0,
         "additions": []
+      },
+      {
+        "id": 204,
+        "cartId": 0,
+        "name": "Chicken Checked",
+        "price": 9.99,
+        "description": "All chickens have been checked before processing",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich4.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "additions": []
+      },
+      {
+        "id": 205,
+        "cartId": 0,
+        "name": "Spicy Unit",
+        "price": 11.49,
+        "description": "We just don't care how much we put flavoring in it",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich5.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "additions": []
+      },
+      {
+        "id": 206,
+        "cartId": 0,
+        "name": "Le Piegon",
+        "price": 9.49,
+        "description": "We serve French food as well",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich6.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "additions": []
       }
     ]
   },
