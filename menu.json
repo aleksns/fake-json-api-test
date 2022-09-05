@@ -1,171 +1,302 @@
 [
   {
     "id": 100,
-    "name": "burgers",
+    "name": "Burgers",
     "imageUrl": "/images/menu/categories/burgers.png",
+    "url": "/burgers",
     "items": [
       {
         "id": 101,
+        "cartId": 0,
         "name": "Royal Burger",
-        "price": "7.99$",
+        "price": 7.99,
         "description": "Incredible piece of meat",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/burgers/burger1.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 102,
+        "cartId": 0,
         "name": "Fatty Boorgir",
-        "price": "8.99$",
+        "price": 8.99,
         "description": "You gotta pronounce it right",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/burgers/burger2.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 103,
+        "cartId": 0,
         "name": "Double Crispy",
-        "price": "5.99$",
+        "price": 5.99,
         "description": "Very kwispy",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/burgers/burger3.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       }
     ]
   },
   {
     "id": 200,
-    "name": "sandwiches",
+    "name": "Sandwiches",
     "imageUrl": "/images/menu/categories/sandwiches.png",
+    "url": "/sandwiches",
     "items": [
       {
         "id": 201,
+        "cartId": 0,
         "name": "Sand Witch",
-        "price": "8.99$",
+        "price": 8.99,
         "description": "Wow, so unique naming",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich1.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 202,
+        "cartId": 0,
         "name": "Morning Ham",
-        "price": "7.99$",
+        "price": 7.99,
         "description": "Tease yourself",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich2.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 203,
+        "cartId": 0,
         "name": "Eggwich",
-        "price": "4.99$",
+        "price": 4.99,
         "description": "Contains no eggs",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich3.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
+      },
+      {
+        "id": 204,
+        "cartId": 0,
+        "name": "Chicken Checked",
+        "price": 9.99,
+        "description": "All chickens have been checked before processing",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich4.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
+      },
+      {
+        "id": 205,
+        "cartId": 0,
+        "name": "Spicy Unit",
+        "price": 11.49,
+        "description": "We just don't care how much we put flavoring in it",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich5.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
+      },
+      {
+        "id": 206,
+        "cartId": 0,
+        "name": "Le Piegon",
+        "price": 9.49,
+        "description": "We serve French food as well",
+        "imageUrl": "/images/menu/categories/sandwiches/sandwich6.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       }
     ]
   },
   {
     "id": 300,
-    "name": "tacos",
-    "imageUrl": "../images/menu/categories/tacos.png",
+    "name": "Tacos",
+    "imageUrl": "/images/menu/categories/tacos.png",
+    "url": "/tacos",
     "items": [
       {
         "id": 301,
+        "cartId": 0,
         "name": "Taco Bianco",
-        "price": "11.99$",
+        "price": 11.99,
         "description": "Arrriba",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/tacos.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 302,
+        "cartId": 0,
         "name": "Horny Taco",
-        "price": "13.99$",
+        "price": 13.99,
         "description": "Our official",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/tacos.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 303,
+        "cartId": 0,
         "name": "Big Palette",
-        "price": "10.99$",
+        "price": 10.99,
         "description": "When you are hungry",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/tacos.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       }
     ]
   },
   {
     "id": 400,
-    "name": "wrappers",
+    "name": "Wrappers",
     "imageUrl": "/images/menu/categories/wrappers.png",
+    "url": "/wrappers",
     "items": [
       {
         "id": 401,
+        "cartId": 0,
         "name": "Beef Royal",
-        "price": "9.99$",
+        "price": 9.99,
         "description": "With beef",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/wrappers.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 402,
+        "cartId": 0,
         "name": "Anaconda",
-        "price": "12.99$",
+        "price": 12.99,
         "description": "It's huge",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/wrappers.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       },
       {
         "id": 403,
+        "cartId": 0,
         "name": "Long Longer",
-        "price": "16.99$",
+        "price": 16.99,
         "description": "Ain't no short",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/wrappers.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       }
     ]
   },
   {
     "id": 500,
-    "name": "fries",
+    "name": "Fries",
     "imageUrl": "/images/menu/categories/fries.png",
+    "url": "/fries",
     "items": [
       {
         "id": 501,
+        "cartId": 0,
         "name": "Classic Fries",
-        "price": "4.99$",
+        "price": 4.99,
         "description": "You know them",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/fries.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": false,
+        "additions": []
       },
       {
         "id": 502,
+        "cartId": 0,
         "name": "Village Fries",
-        "price": "5.99$",
+        "price": 5.99,
         "description": "We don't peel them",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/fries.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": false,
+        "additions": []
       },
       {
         "id": 503,
+        "cartId": 0,
         "name": "Extra Oily Fries",
-        "price": "6.99$",
+        "price": 6.99,
         "description": "When you are bulking",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/fries.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": false,
+        "additions": []
       }
     ]
   },
   {
     "id": 600,
-    "name": "drinks",
+    "name": "Drinks",
     "imageUrl": "/images/menu/categories/drinks.png",
+    "url": "/drinks",
     "items": [
       {
         "id": 601,
+        "cartId": 0,
         "name": "Cola",
-        "price": "2.99$",
+        "price": 2.99,
         "description": "Without 'famous ingredient' added",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/drinks.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": false,
+        "additions": []
       },
       {
         "id": 602,
+        "cartId": 0,
         "name": "Coffee",
-        "price": "3.99$",
+        "price": 3.99,
         "description": "You are tired",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/drinks.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": false,
+        "additions": []
       },
       {
         "id": 603,
+        "cartId": 0,
         "name": "Herbal Tee",
-        "price": "3.99$",
+        "price": 3.99,
         "description": "Gotta be healthy",
-        "imageUrl": ""
+        "imageUrl": "/images/menu/categories/drinks.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": false,
+        "additions": []
       }
     ]
   }
 ]
-
