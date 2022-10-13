@@ -1,0 +1,181 @@
+[
+  {
+    "_id": { "$oid": "6346cc395520744ad931e1c9" },
+    "user_id": "6346ca3d2763c38314f600da",
+    "totalAmount": { "$numberInt": "5" },
+    "totalPrice": { "$numberDecimal": "70.34" },
+    "items": [
+      {
+        "id": { "$numberInt": "101" },
+        "cartId": "b6b5c274-9b29-21c9-8f4c",
+        "name": "Royal Burger",
+        "price": { "$numberDouble": "7.99" },
+        "description": "Incredible piece of meat",
+        "imageUrl": "/images/menu/categories/burgers/burger1.png",
+        "amountOrdered": { "$numberInt": "3" },
+        "totalPrice": { "$numberDouble": "48.36" },
+        "isAdditions": true,
+        "additions": [
+          {
+            "id": { "$numberInt": "1001" },
+            "name": "Beef",
+            "price": { "$numberDouble": "2.45" },
+            "imageUrl": "/images/menu/additions/beef.png",
+            "amountOrdered": { "$numberInt": "2" }
+          },
+          {
+            "id": { "$numberInt": "1002" },
+            "name": "Bacon",
+            "price": { "$numberDouble": "1.25" },
+            "imageUrl": "/images/menu/additions/bacon.png",
+            "amountOrdered": { "$numberInt": "1" }
+          },
+          {
+            "id": { "$numberInt": "1003" },
+            "name": "Cheese",
+            "price": { "$numberDouble": "0.99" },
+            "imageUrl": "/images/menu/additions/cheese.png",
+            "amountOrdered": { "$numberInt": "2" }
+          },
+          {
+            "id": { "$numberInt": "1004" },
+            "name": "Onions",
+            "price": { "$numberDouble": "0.6" },
+            "imageUrl": "/images/menu/additions/onions.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1005" },
+            "name": "Mustard",
+            "price": { "$numberDouble": "0.5" },
+            "imageUrl": "/images/menu/additions/mustard.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1006" },
+            "name": "Chili",
+            "price": { "$numberDouble": "0.5" },
+            "imageUrl": "/images/menu/additions/chili.png",
+            "amountOrdered": { "$numberInt": "0" }
+          }
+        ]
+      },
+      {
+        "id": { "$numberInt": "403" },
+        "cartId": "4adc11c1-e77f-5787-8fd5",
+        "name": "Long Longer",
+        "price": { "$numberDouble": "16.99" },
+        "description": "Ain't no short",
+        "imageUrl": "/images/menu/categories/wrappers/wrapper3.png",
+        "amountOrdered": { "$numberInt": "1" },
+        "totalPrice": { "$numberDouble": "18.99" },
+        "isAdditions": true,
+        "additions": [
+          {
+            "id": { "$numberInt": "1001" },
+            "name": "Beef",
+            "price": { "$numberDouble": "2.45" },
+            "imageUrl": "/images/menu/additions/beef.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1002" },
+            "name": "Bacon",
+            "price": { "$numberDouble": "1.25" },
+            "imageUrl": "/images/menu/additions/bacon.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1003" },
+            "name": "Cheese",
+            "price": { "$numberDouble": "0.99" },
+            "imageUrl": "/images/menu/additions/cheese.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1004" },
+            "name": "Onions",
+            "price": { "$numberDouble": "0.6" },
+            "imageUrl": "/images/menu/additions/onions.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1005" },
+            "name": "Mustard",
+            "price": { "$numberDouble": "0.5" },
+            "imageUrl": "/images/menu/additions/mustard.png",
+            "amountOrdered": { "$numberInt": "2" }
+          },
+          {
+            "id": { "$numberInt": "1006" },
+            "name": "Chili",
+            "price": { "$numberDouble": "0.5" },
+            "imageUrl": "/images/menu/additions/chili.png",
+            "amountOrdered": { "$numberInt": "2" }
+          }
+        ]
+      },
+      {
+        "id": { "$numberInt": "601" },
+        "cartId": "3f6f34d8-d3cd-900a-3133",
+        "name": "Cola",
+        "price": { "$numberDouble": "2.99" },
+        "description": "Without 'famous ingredient'",
+        "imageUrl": "/images/menu/categories/drinks/drink1.png",
+        "amountOrdered": { "$numberInt": "1" },
+        "totalPrice": { "$numberDouble": "2.99" },
+        "isAdditions": false,
+        "additions": [
+          {
+            "id": { "$numberInt": "1001" },
+            "name": "Beef",
+            "price": { "$numberDouble": "2.45" },
+            "imageUrl": "/images/menu/additions/beef.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1002" },
+            "name": "Bacon",
+            "price": { "$numberDouble": "1.25" },
+            "imageUrl": "/images/menu/additions/bacon.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1003" },
+            "name": "Cheese",
+            "price": { "$numberDouble": "0.99" },
+            "imageUrl": "/images/menu/additions/cheese.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1004" },
+            "name": "Onions",
+            "price": { "$numberDouble": "0.6" },
+            "imageUrl": "/images/menu/additions/onions.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1005" },
+            "name": "Mustard",
+            "price": { "$numberDouble": "0.5" },
+            "imageUrl": "/images/menu/additions/mustard.png",
+            "amountOrdered": { "$numberInt": "0" }
+          },
+          {
+            "id": { "$numberInt": "1006" },
+            "name": "Chili",
+            "price": { "$numberDouble": "0.5" },
+            "imageUrl": "/images/menu/additions/chili.png",
+            "amountOrdered": { "$numberInt": "0" }
+          }
+        ]
+      }
+    ],
+    "phoneNumber": "+1(000)-000-00-00",
+    "address": "Very Wellington 99",
+    "paymentMethod": "Card",
+    "note": "Hurry up, i'm starving here!",
+    "createdAt": { "$date": { "$numberLong": "1665584185325" } },
+    "__v": { "$numberInt": "0" }
+  }
+]
