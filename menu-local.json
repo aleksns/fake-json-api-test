@@ -2,7 +2,7 @@
   {
     "id": 100,
     "name": "Burgers",
-    "imageUrl": "images/menu/categories/burgers.png",
+    "imageUrl": "/images/menu/categories/burgers.png",
     "url": "/burgers",
     "items": [
       {
@@ -11,7 +11,7 @@
         "name": "Royal Burger",
         "price": 7.99,
         "description": "Incredible piece of meat",
-        "imageUrl": "images/menu/categories/burgers/burger1.png",
+        "imageUrl": "/images/menu/categories/burgers/burger1.png",
         "amountOrdered": 0,
         "totalPrice": 0,
         "isAdditions": true,
