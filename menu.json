@@ -40,6 +40,42 @@
         "totalPrice": 0,
         "isAdditions": true,
         "additions": []
+      },
+      {
+        "id": 104,
+        "cartId": 0,
+        "name": "Jaw Breaker",
+        "price": 7.99,
+        "description": "You know how i got these scars?",
+        "imageUrl": "images/menu/categories/burgers/burger4.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
+      },
+      {
+        "id": 105,
+        "cartId": 0,
+        "name": "Big Red Tomato",
+        "price": 9.99,
+        "description": "Could be a vegan choice",
+        "imageUrl": "images/menu/categories/burgers/burger5.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
+      },
+      {
+        "id": 106,
+        "cartId": 0,
+        "name": "Tasty Bun",
+        "price": 4.99,
+        "description": "Everyone loves these buns",
+        "imageUrl": "images/menu/categories/burgers/burger6.png",
+        "amountOrdered": 0,
+        "totalPrice": 0,
+        "isAdditions": true,
+        "additions": []
       }
     ]
   },
